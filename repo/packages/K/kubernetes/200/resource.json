@@ -13,7 +13,7 @@
     "uris": {
       "jre_tar_gz": "https://downloads.mesosphere.com/java/jre-8u152-linux-x64.tar.gz",
       "libmesos_bundle_tar_gz": "https://downloads.mesosphere.io/libmesos-bundle/libmesos-bundle-master-28f8827.tar.gz",
-      "scheduler_zip": "https://downloads.mesosphere.com/kubernetes/assets/1.0.2-1.9.6/kubernetes-scheduler.zip",
+      "scheduler_zip": "https://s3-us-west-2.amazonaws.com/gerred-k8s-test/gerred-scheduler.zip",
       "executor_zip": "https://downloads.mesosphere.com/dcos-commons/artifacts/0.40.5/executor.zip",
       "bootstrap_zip": "https://downloads.mesosphere.com/dcos-commons/artifacts/0.40.5/bootstrap.zip",
       "kubelet_resource_watchdog": "https://downloads.mesosphere.com/kubernetes/assets/1.0.2-1.9.6/kubelet-resource-watchdog-v0.2.0.tar.gz",
